@@ -1,4 +1,4 @@
-# xP-model
+# Passing model
 
 Logistic Regression model to predict pass accuracy in football players.
 
@@ -9,5 +9,7 @@ Logistic Regression model to predict pass accuracy in football players.
 ![Alt text](roc_curve_sb_passing.jpg)
 
 - Improvments:
-  -variable selection
-  -test on 2019/20 WSL data, player evaluation 
+  - variable selection
+  - test on 2019/20 WSL data, player evaluation 
+  - more sophisticated models - random forest
+  
